@@ -12,7 +12,7 @@ using pacman_v_1._00.Properties;
 
 namespace pacman_v_1._00
 {
-
+    //123
     public partial class Form1 : Form
     {
         private ghost ghost = new ghost();
